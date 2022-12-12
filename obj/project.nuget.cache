@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GtpayuC5nSaUklGm5LbV7yRHvsv4LXGOqt6j97QwcvWus+fmH3zokTU73iRV4h1nf69Jq8TykTwdx+Gg3NfXHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\almit\\game\\game.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\almit\\.nuget\\packages\\retao\\1.0.0\\retao.1.0.0.nupkg.sha512",
+    "C:\\Users\\almit\\.nuget\\packages\\sdl\\1.2.15.16\\sdl.1.2.15.16.nupkg.sha512",
+    "C:\\Users\\almit\\.nuget\\packages\\sdl.redist\\1.2.15.16\\sdl.redist.1.2.15.16.nupkg.sha512"
+  ],
+  "logs": []
+}
